@@ -15,9 +15,7 @@ You can click the Preview link to take a look at your changes.
 <h3 align="center">
 
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
-
 WELCOME TO SUMON-TERMUX PROFILE
-
 <img src="https://emoji.discord.st/emojis/768b108d-274f-4f44-a634-8477b16efce7.gif" width="25">
 
 </h3>
